@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 113,
+    "height" : 151
+  }, {
+    "width" : 226,
+    "height" : 301
+  }, {
+    "width" : 451,
+    "height" : 601
+  }, {
+    "width" : 901,
+    "height" : 1202
+  }, {
+    "width" : 1802,
+    "height" : 2403
+  }, {
+    "width" : 3604,
+    "height" : 4805
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3604,
+  "@id" : "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat_4",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4805
+}
