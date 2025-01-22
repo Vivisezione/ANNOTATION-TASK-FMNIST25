@@ -88,6 +88,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress_3/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "dress_3"
+                ]
+            },
+            "height": 8161,
+            "width": 5680,
+            "items": [
+                {
+                    "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress_3/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress_3/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress_3/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 178,
+                                                "height": 256
+                                            },
+                                            {
+                                                "width": 355,
+                                                "height": 511
+                                            },
+                                            {
+                                                "width": 710,
+                                                "height": 1021
+                                            },
+                                            {
+                                                "width": 1420,
+                                                "height": 2041
+                                            },
+                                            {
+                                                "width": 2840,
+                                                "height": 4081
+                                            },
+                                            {
+                                                "width": 5680,
+                                                "height": 8161
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5680,
+                                        "@id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress_3",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 8161,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress_3/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
