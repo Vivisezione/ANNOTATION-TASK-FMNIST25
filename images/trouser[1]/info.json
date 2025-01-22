@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 112,
+    "height" : 163
+  }, {
+    "width" : 223,
+    "height" : 326
+  }, {
+    "width" : 446,
+    "height" : 652
+  }, {
+    "width" : 892,
+    "height" : 1303
+  }, {
+    "width" : 1783,
+    "height" : 2605
+  }, {
+    "width" : 3566,
+    "height" : 5210
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3566,
+  "@id" : "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5210
+}

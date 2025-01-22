@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 173,
+    "height" : 130
+  }, {
+    "width" : 346,
+    "height" : 260
+  }, {
+    "width" : 692,
+    "height" : 520
+  }, {
+    "width" : 1384,
+    "height" : 1040
+  }, {
+    "width" : 2768,
+    "height" : 2080
+  }, {
+    "width" : 5536,
+    "height" : 4160
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5536,
+  "@id" : "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]_",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4160
+}

@@ -9,6 +9,492 @@
     },
     "items": [
         {
+            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress[3]/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "dress[3]"
+                ]
+            },
+            "height": 6016,
+            "width": 4016,
+            "items": [
+                {
+                    "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress[3]/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress[3]/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress[3]/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 126,
+                                                "height": 188
+                                            },
+                                            {
+                                                "width": 251,
+                                                "height": 376
+                                            },
+                                            {
+                                                "width": 502,
+                                                "height": 752
+                                            },
+                                            {
+                                                "width": 1004,
+                                                "height": 1504
+                                            },
+                                            {
+                                                "width": 2008,
+                                                "height": 3008
+                                            },
+                                            {
+                                                "width": 4016,
+                                                "height": 6016
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4016,
+                                        "@id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress[3]",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 6016,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress[3]/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "t-shirt[0]"
+                ]
+            },
+            "height": 4000,
+            "width": 6000,
+            "items": [
+                {
+                    "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 188,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 3000,
+                                                "height": 2000
+                                            },
+                                            {
+                                                "width": 6000,
+                                                "height": 4000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 6000,
+                                        "@id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat[4]_/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "coat[4]_"
+                ]
+            },
+            "height": 4857,
+            "width": 3238,
+            "items": [
+                {
+                    "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat[4]_/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat[4]_/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat[4]_/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 102,
+                                                "height": 152
+                                            },
+                                            {
+                                                "width": 203,
+                                                "height": 304
+                                            },
+                                            {
+                                                "width": 405,
+                                                "height": 608
+                                            },
+                                            {
+                                                "width": 810,
+                                                "height": 1215
+                                            },
+                                            {
+                                                "width": 1619,
+                                                "height": 2429
+                                            },
+                                            {
+                                                "width": 3238,
+                                                "height": 4857
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3238,
+                                        "@id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat[4]_",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4857,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat[4]_/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]+/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "trouser[1]+"
+                ]
+            },
+            "height": 3296,
+            "width": 3296,
+            "items": [
+                {
+                    "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]+/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]+/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]+/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 103,
+                                                "height": 103
+                                            },
+                                            {
+                                                "width": 206,
+                                                "height": 206
+                                            },
+                                            {
+                                                "width": 412,
+                                                "height": 412
+                                            },
+                                            {
+                                                "width": 824,
+                                                "height": 824
+                                            },
+                                            {
+                                                "width": 1648,
+                                                "height": 1648
+                                            },
+                                            {
+                                                "width": 3296,
+                                                "height": 3296
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3296,
+                                        "@id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]+",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3296,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]+/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]_/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pullover[2]_"
+                ]
+            },
+            "height": 4160,
+            "width": 5536,
+            "items": [
+                {
+                    "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]_/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]_/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]_/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 173,
+                                                "height": 130
+                                            },
+                                            {
+                                                "width": 346,
+                                                "height": 260
+                                            },
+                                            {
+                                                "width": 692,
+                                                "height": 520
+                                            },
+                                            {
+                                                "width": 1384,
+                                                "height": 1040
+                                            },
+                                            {
+                                                "width": 2768,
+                                                "height": 2080
+                                            },
+                                            {
+                                                "width": 5536,
+                                                "height": 4160
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5536,
+                                        "@id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]_",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4160,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]_/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]+/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "t-shirt[0]+"
+                ]
+            },
+            "height": 3168,
+            "width": 2112,
+            "items": [
+                {
+                    "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]+/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]+/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]+/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 66,
+                                                "height": 99
+                                            },
+                                            {
+                                                "width": 132,
+                                                "height": 198
+                                            },
+                                            {
+                                                "width": 264,
+                                                "height": 396
+                                            },
+                                            {
+                                                "width": 528,
+                                                "height": 792
+                                            },
+                                            {
+                                                "width": 1056,
+                                                "height": 1584
+                                            },
+                                            {
+                                                "width": 2112,
+                                                "height": 3168
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2112,
+                                        "@id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]+",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3168,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]+/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat_4/canvas/",
             "type": "Canvas",
             "label": {
@@ -165,6 +651,168 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress_3/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "trouser[1]"
+                ]
+            },
+            "height": 5210,
+            "width": 3566,
+            "items": [
+                {
+                    "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 112,
+                                                "height": 163
+                                            },
+                                            {
+                                                "width": 223,
+                                                "height": 326
+                                            },
+                                            {
+                                                "width": 446,
+                                                "height": 652
+                                            },
+                                            {
+                                                "width": 892,
+                                                "height": 1303
+                                            },
+                                            {
+                                                "width": 1783,
+                                                "height": 2605
+                                            },
+                                            {
+                                                "width": 3566,
+                                                "height": 5210
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3566,
+                                        "@id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5210,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pullover[2]"
+                ]
+            },
+            "height": 3376,
+            "width": 6000,
+            "items": [
+                {
+                    "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 188,
+                                                "height": 106
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 211
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 422
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 844
+                                            },
+                                            {
+                                                "width": 3000,
+                                                "height": 1688
+                                            },
+                                            {
+                                                "width": 6000,
+                                                "height": 3376
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 6000,
+                                        "@id": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3376,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]/canvas/"
                         }
                     ]
                 }
