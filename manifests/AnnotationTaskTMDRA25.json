@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/manifests/AnnotationTaskTMDRA25.json",
+  "@type" : "sc:Manifest",
+  "label" : "Annotation Task TMDRA 2025",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Some images (10) of clothes (t-shirt, trouser, pullover, dress, coat)- since our dataset was the fashion-mnist. ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Viviana Amaro",
+  "sequences" : [ {
+    "@id" : "http://f61d3c1b-3786-49d6-b415-b0f0e2fbc7b2",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://b68d0ea5-5edc-4294-b39f-d4689371a86e",
+      "@type" : "sc:Canvas",
+      "label" : "Dress",
+      "height" : 6016,
+      "width" : 4016,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a907c577-8143-4241-b98e-cf9ca35bc630",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress[3]/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress[3]",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6016,
+          "width" : 4016
+        },
+        "on" : "http://b68d0ea5-5edc-4294-b39f-d4689371a86e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://61d35814-076e-464f-ab6f-422b5a49fab9",
+      "@type" : "sc:Canvas",
+      "label" : "T-shirt",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b6e9a183-05fa-4a1c-adcf-50ed37add1dc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://61d35814-076e-464f-ab6f-422b5a49fab9"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4bffb9d8-c310-447d-8969-0fac969a172e",
+      "@type" : "sc:Canvas",
+      "label" : "Coat",
+      "height" : 4857,
+      "width" : 3238,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b6f4753e-b8f0-4d5a-aa2f-eeb0cb7e4d08",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat[4]_/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat[4]_",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4857,
+          "width" : 3238
+        },
+        "on" : "http://4bffb9d8-c310-447d-8969-0fac969a172e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://edf2775e-a7c0-4ef6-bf05-6d84046f195b",
+      "@type" : "sc:Canvas",
+      "label" : "Trouser",
+      "height" : 3296,
+      "width" : 3296,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://377eb301-bd80-4669-988e-6ada7815442e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]+/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]+",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3296,
+          "width" : 3296
+        },
+        "on" : "http://edf2775e-a7c0-4ef6-bf05-6d84046f195b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://6141e00e-414f-4135-a156-68f84ae7b8f6",
+      "@type" : "sc:Canvas",
+      "label" : "Pullover",
+      "height" : 4160,
+      "width" : 5536,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1f10b3bd-9844-471f-bab3-2de9b9fddc43",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]_/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]_",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4160,
+          "width" : 5536
+        },
+        "on" : "http://6141e00e-414f-4135-a156-68f84ae7b8f6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://444238de-fe50-4b99-a8ff-e9b7059523df",
+      "@type" : "sc:Canvas",
+      "label" : "T-Shirt 2",
+      "height" : 3168,
+      "width" : 2112,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c2041f09-a5b4-4ea7-811f-2fbd4366f8d9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]+/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/t-shirt[0]+",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3168,
+          "width" : 2112
+        },
+        "on" : "http://444238de-fe50-4b99-a8ff-e9b7059523df"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d9bf6a95-d48e-44db-bc01-920bd2e53243",
+      "@type" : "sc:Canvas",
+      "label" : "Coat 2",
+      "height" : 4805,
+      "width" : 3604,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://907cb1c4-f776-42ad-b9f9-52e0f312727d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat_4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/coat_4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4805,
+          "width" : 3604
+        },
+        "on" : "http://d9bf6a95-d48e-44db-bc01-920bd2e53243"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0dd5ed75-a175-407c-8ca9-472ffeaf228b",
+      "@type" : "sc:Canvas",
+      "label" : "Dress 2",
+      "height" : 8161,
+      "width" : 5680,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e211f63f-7fa7-4576-aac6-9193a19aaf42",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress_3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/dress_3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 8161,
+          "width" : 5680
+        },
+        "on" : "http://0dd5ed75-a175-407c-8ca9-472ffeaf228b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://31f7e6d5-6e82-4f5f-aa90-01679bf1153b",
+      "@type" : "sc:Canvas",
+      "label" : "Trouser 2",
+      "height" : 5210,
+      "width" : 3566,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8d43fa62-4466-489d-93f3-948a0a2c24f6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/trouser[1]",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5210,
+          "width" : 3566
+        },
+        "on" : "http://31f7e6d5-6e82-4f5f-aa90-01679bf1153b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ac003934-c2c9-4823-ada3-cc5ae6a288e4",
+      "@type" : "sc:Canvas",
+      "label" : "Pullover 2",
+      "height" : 3376,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6c23fd6d-da00-4427-aa7b-862958d813fb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://vivisezione.github.io/ANNOTATION-TASK-FMNIST25/images/pullover[2]",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3376,
+          "width" : 6000
+        },
+        "on" : "http://ac003934-c2c9-4823-ada3-cc5ae6a288e4"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
