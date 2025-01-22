@@ -1,0 +1,13 @@
+{
+  "id" : "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Vivisezione/ANNOTATION-TASK-FMNIST25 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Vivisezione.github.io/ANNOTATION-TASK-FMNIST25/manifests/AnnotationTaskTMDRA25.json",
+    "label" : "Annotation Task TMDRA 2025"
+  } ]
+}
